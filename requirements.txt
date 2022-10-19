@@ -1,7 +1,6 @@
 flask
 numpy
 pandas
-scikit-learn
 underthesea
 gensim==3.8.0
 tensorflow==2.5.0
