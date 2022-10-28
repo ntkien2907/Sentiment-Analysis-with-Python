@@ -33,4 +33,5 @@ This process is done on [Colab](https://drive.google.com/drive/folders/1RrUjuS0t
 
 
 ### References
-[QuangPH. Phân tích phản hồi khách hàng hiệu quả với Machine learning. In Viblo, 2018.](https://viblo.asia/p/phan-tich-phan-hoi-khach-hang-hieu-qua-voi-machine-learningvietnamese-sentiment-analysis-Eb85opXOK2G)
+1. [Quan-Hoang Vo; Huy-Tien Nguyen; Bac Le; and Minh-Le Nguyen. Multi-channel LSTM-CNN model for Vietnamese sentiment analysis. In KSE, 2017.](https://ieeexplore.ieee.org/document/8119429?fbclid=IwAR0c263mQOKFh3RP7XpcgSV_cC6qYXTyi3e_bvqKB0FOejLBuCtkQudkAPQ)
+2. [QuangPH. Phân tích phản hồi khách hàng hiệu quả với Machine learning. In Viblo, 2018.](https://viblo.asia/p/phan-tich-phan-hoi-khach-hang-hieu-qua-voi-machine-learningvietnamese-sentiment-analysis-Eb85opXOK2G)
