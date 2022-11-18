@@ -9,7 +9,7 @@ with open(WORD2ID_PKL, 'rb') as f:
 
 def indexing(sentence, word2id):
   words = sentence.split()
-  ids = [word2id[word] for word in words]
+  ids = [word2id[word] if word in word2id.keys() else 0 for word in words]
   return np.array(ids)
 
 def LSTM_CNN_predict(text, model):

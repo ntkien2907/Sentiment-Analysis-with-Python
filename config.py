@@ -1,4 +1,4 @@
-HOST = '192.168.1.5'
+HOST = '192.168.1.10'
 PORT = 5000
 
 TRAINED_MODEL_DIR = 'output'
