@@ -16,7 +16,7 @@ This project aims to analyse the sentiments of vietnamese food comments crawled 
 
 
 ### Training and Evaluation
-This process is done on [Colab](https://drive.google.com/drive/folders/1RrUjuS0tffVOgOCqgP6BVhPvayzOPOH7?usp=sharing) to prevent errors.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1RrUjuS0tffVOgOCqgP6BVhPvayzOPOH7?usp=sharing)
 
 
 ### How to use
@@ -24,8 +24,7 @@ This process is done on [Colab](https://drive.google.com/drive/folders/1RrUjuS0t
     ```
     pip install -r requirements.txt
     ```
-* Step 2: Configure hyper-parameters in `config.py`.
-* Step 3: Start server.
+* Step 2: Configure hyper-parameters in `config.py` and start server.
     ```
     python app.py
     ```

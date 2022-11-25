@@ -1,8 +1,8 @@
-import pickle
 import numpy as np
+import pickle
 from tensorflow.keras.preprocessing import sequence as sq
 from config import *
-from preprocess import *
+from utils import *
 
 with open(WORD2ID_PKL, 'rb') as f:
   word2id = pickle.load(f)

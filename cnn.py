@@ -2,7 +2,7 @@ import numpy as np
 from underthesea import word_tokenize
 from gensim.models import Word2Vec
 from config import *
-from preprocess import *
+from utils import *
 
 w2v_model = Word2Vec.load(W2V_MODEL)
 vocab = w2v_model.wv.vocab.keys()
